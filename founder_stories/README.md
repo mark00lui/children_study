@@ -21,14 +21,15 @@
 
 ## 📁 文件列表
 - [Microsoft 創辦人小故事](microsoft_founder_stories.md) - 比爾蓋茲與保羅艾倫的創業冒險
+- [Apple 創辦人小故事](apple_founder_stories.md) - 賈伯斯、沃茲尼克與庫克的創新之路
+- [Google 創辦人小故事](google_founder_stories.md) - 佩吉、布林與皮查伊的搜尋夢想
+- [Amazon 創辦人小故事](amazon_founder_stories.md) - 貝佐斯與賈西的電商帝國
+- [Tesla 創辦人小故事](tesla_founder_stories.md) - 馬斯克、艾伯哈德與塔彭寧的電動車夢想
+- [Facebook 創辦人小故事](facebook_founder_stories.md) - 祖克柏與桑德伯格的社交網路夢想
+- [NVIDIA 創辦人小故事](nvidia_founder_stories.md) - 黃仁勳、馬拉喬夫斯基與普里姆的晶片傳奇
 
-## 🔄 更新計畫
-- [ ] Apple 創辦人小故事 - 賈伯斯的創新之路
-- [ ] Google 創辦人小故事 - 佩吉與布林的搜尋夢想
-- [ ] Amazon 創辦人小故事 - 貝佐斯的電商帝國
-- [ ] NVIDIA 創辦人小故事 - 黃仁勳的晶片傳奇
-- [ ] Facebook 創辦人小故事 - 祖克柏的社交網路
-- [ ] Tesla 創辦人小故事 - 馬斯克的電動車夢想
+## 🎉 完成狀態
+✅ 所有七巨頭的創辦人小故事已完成！
 
 ---
 

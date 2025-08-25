@@ -50,6 +50,12 @@
 **檔案清單：**
 - `README.md` - 小故事專區說明
 - `microsoft_founder_stories.md` - Microsoft 創辦人小故事
+- `apple_founder_stories.md` - Apple 創辦人小故事
+- `google_founder_stories.md` - Google 創辦人小故事
+- `amazon_founder_stories.md` - Amazon 創辦人小故事
+- `tesla_founder_stories.md` - Tesla 創辦人小故事
+- `facebook_founder_stories.md` - Facebook 創辦人小故事
+- `nvidia_founder_stories.md` - NVIDIA 創辦人小故事
 
 ### 📁 activities/ - 教學活動與互動內容
 - 學習活動設計
